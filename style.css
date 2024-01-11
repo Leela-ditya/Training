@@ -192,7 +192,7 @@ body {
   .skills-covered,
   .tools-covered,
   .placement {
-    padding: 1rem 1rem !important;
+    padding: 1rem !important;
   }
 
   .skill-subcontent-2 {
@@ -214,11 +214,16 @@ body {
 
   .sub-container{
     flex-direction: column;
+    padding: 1rem !important;
   }
 
   /* skill section */
   .skills-icons {
     grid-template-columns: 1fr;
+  }
+
+  .p5{
+    padding: 1rem !important;
   }
 
   .modules{
@@ -233,10 +238,6 @@ body {
   .placement{
     padding: .5rem .5rem !important;
   }
-
-  .p-5 {
-    padding: 1rem !important;
-}
 
   .top-institutes {
     margin: 10px 0px 10px 0px;
