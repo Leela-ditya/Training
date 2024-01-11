@@ -167,6 +167,10 @@ body {
     gap: 6px;
   }
 
+  .top-institutes{
+    width: 300px;
+  }
+  
   .institute-names li span img{
     width: 50px;
   }
